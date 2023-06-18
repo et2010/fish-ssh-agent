@@ -6,12 +6,12 @@ after the running ssh_agent should do the work for you.
 
 ## Installation
 
-### Using [fundle](https://github.com/danhper/fundle)
+### Using [fundle](https://github.com/et2010/fundle)
 
 Add
 
 ```
-fundle plugin 'danhper/fish-ssh-agent'
+fundle plugin 'et2010/fish-ssh-agent'
 ```
 
 to your `config.fish`, reload your shell and run `fundle install`.
@@ -19,7 +19,7 @@ to your `config.fish`, reload your shell and run `fundle install`.
 ### Using [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```
-fisher install danhper/fish-ssh-agent
+fisher install et2010/fish-ssh-agent
 ```
 
 ### Manually
